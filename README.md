@@ -1,7 +1,7 @@
 # Data Visualization: Airbnb Listings Analysis
 
 ## Task Description
-This repository contains the Data Visualization for Descriptive Statistics. The  code and full analysis can be found in the main file: `Data Visualisation.ipynb`. 
+This repository contains the Data Visualization for Descriptive Statistics. The  code and full analysis can be found in the file: `Data Visualisation.ipynb`. 
 
 The goal is a deep analysis of the airbnb listings dataset. The analysis focuses on the relationships between accommodation types, prices, locations, guest ratings, and popularity.
 
